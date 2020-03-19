@@ -1,0 +1,9 @@
+18.03.2020
+Arrays: single, multi dimensional arrays, 
+two dimensional: int[,] = new int [20,2]
+three dimensional: int[,,] =  new int[2,2,2]
+Up to 32 dimensions can be applied
+Jagged arrays - рваные массивы
+var arrays
+check sort()
+IndexOutOfRange
