@@ -7,3 +7,30 @@ Jagged arrays - рваные массивы
 var arrays
 check sort()
 IndexOutOfRange
+strings
+
+20.03.20
+empty strings
+null strings
+StringBuilder
+StartsWith() IndexOf()
+regex ???
+
+Classes
+Events
+Locals
+Functions and members
+Properties
+Constructors
+Finalizers - called when CLR defines Object is no longer needed
+Indexers - help index Objects like array or COllection
+Access modifiers:
+public, protected, private, internal, protected internal, private protected
+Methods
+Can specify
+parameters for methods, return values
+Reference parameters, ref
+out parameter
+OVERRIDE
+VIRTUAL
+
