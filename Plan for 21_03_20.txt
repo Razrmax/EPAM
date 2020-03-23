@@ -1,0 +1,19 @@
+Troelsen:
+1) Chapter 4:
+- multi-dimensional arrays;
+-out, ref, param keywords;
+-enum type, structures and nullable data types;
+-value types vs reference types;
+-tuples
+
+2) Chapter 5:
+- properties, statics, finalizers, read only fields
+- partial type definitions, automatic properties;
+
+3) Chapter 6:
+- virtual, abstract methods, abstract base classes;
+- pattern matching
+
++++ 
+Access modifiers
+Indexers
